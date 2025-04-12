@@ -1,3 +1,7 @@
 # Lecture_Tutor
 Rag-Based Customized Lecture Tutor
-![rag시연](https://github.com/user-attachments/assets/e7357020-69a5-4115-bc72-82df57d6978b)
+
+![RAG시연_step1](https://github.com/user-attachments/assets/a37a3a53-876f-429b-acdb-d71692c12682)
+
+
+![RAG시연_step2](https://github.com/user-attachments/assets/f1ef6e9a-8d7d-40f0-9acc-41d30a27653a)
